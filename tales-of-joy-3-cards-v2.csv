@@ -1,0 +1,68 @@
+word,audio_url,image_url,pos,zh,forms,example_en,example_zh,phonics,fake_pron,mnemonic
+school,,,n.,學校,schools|學校(複數),Let's go to school.,我們去上學吧。,oo 發「ㄨ」,ㄙ-ㄍ-ㄨ-ㄌ,學校 (school) 裡有兩個圓圓眼睛 (oo) 的小貓在看書。
+bed,,,n.,床,beds|床(複數),"Go to bed, Ruby.",去睡覺吧，Ruby。,e 發「ㄝ」,ㄅ-ㄝ-ㄉ,在床 (bed) 上睡覺是一件很棒的事。
+go to school,,,phrase,去上學,無,I go to school every morning.,我每天早上都去上學。,無,ㄍ-ㄡ ㄊ-ㄨ ㄙ-ㄍ-ㄨ-ㄌ,每天早上背著書包去上學 (go to school)。
+go to bed,,,phrase,去睡覺,無,It's time to go to bed.,該去睡覺囉。,無,ㄍ-ㄡ ㄊ-ㄨ ㄅ-ㄝ-ㄉ,晚上累了就要乖乖去睡覺 (go to bed)。
+doll,,,n.,玩偶/娃娃,dolls|玩偶(複數),What are these? They are dolls.,這些是什麼？它們是洋娃娃。,o 發「ㄚ」,ㄉ-ㄚ-ㄌ,洋娃娃 (doll) 的眼睛圓圓的像個 o。
+robot,,,n.,機器人,robots|機器人(複數),How many robots? Ten.,有幾個機器人？十個。,o 發「ㄡ」/「ㄚ」,ㄖ-ㄡ-ㄅ-ㄚ-ㄊ,機器人 (robot) 走路時發出 ㄖㄡ-ㄅㄚ-ㄊ 的聲音。
+bag,,,n.,書包/袋子,bags|書包(複數),This is my bag.,這是我的書包。,a 發「ㄞ」,ㄅ-ㄞ-ㄍ,書包 (bag) 裡裝了好多讀書好物。
+eraser,,,n.,橡皮擦,erasers|橡皮擦(複數),Look! There's an eraser.,看！那裡有一個橡皮擦。,er 發「ㄦ」,ㄧ-ㄖ-ㄟ-ㄙ-ㄦ,橡皮擦 (eraser) 把寫錯的字擦掉了。
+tired,,,adj.,疲倦的/累的,無,"Are you tired? Yes, I am.",你累了嗎？是的，我累了。,i 發「ㄞ」,ㄊ-ㄞ-ㄦ-ㄉ,工作了一整天，我好累 (tired) 喔。
+sick,,,adj.,生病的,無,"Is she sick? Yes, she is sick.",她生病了嗎？是的，她生病了。,i 發「ㄧ」,ㄙ-ㄧ-ㄍ,生病 (sick) 時要多喝水、多休息。
+thirsty,,,adj.,口渴的,無,"Are you thirsty? No, I am not.",你口渴嗎？不，我不口渴。,ir 發「ㄦ」,ㄙ-ㄦ-ㄙ-ㄊ-ㄧ,口渴 (thirsty) 的 ir 發 ㄦ（er），喉嚨乾了想喝水。
+warm,,,adj.,溫暖的,無,It is warm today.,今天很溫暖。,ar 發「ㄛ」,ㄨ-ㄛ-ㄇ,春天溫暖的 (warm) 太陽出來了。
+hot,,,adj.,炎熱的,無,It is hot.,天氣很熱。,o 發「ㄚ」,... (ㄏ-ㄚ-ㄊ),夏天好熱 (hot)，好想吃冰淇淋。
+cool,,,adj.,涼爽的/酷的,無,It is cool.,天氣很涼爽。,oo 發「ㄨ」,ㄎ-ㄨ-ㄌ,秋天的風涼爽的 (cool)，吹起來很舒服。
+cold,,,adj.,寒冷的,無,It's cold. Put on your jacket.,天氣很冷，穿上你的外套吧。,o 發「ㄡ」,ㄎ-ㄡ-ㄌ-ㄉ,冬天好冷 (cold)，要穿外套。
+lucky money,,,n.,紅包/壓歲錢,無,"Wow, lucky money!",哇，是紅包！,u 發「ㄚ」,ㄌ-ㄚ-ㄍ-ㄧ ㄇ-ㄚ-ㄋ-ㄧ,過年時收到裝著紅包的幸運錢 (lucky money)。
+dragon dance,,,n.,舞龍,無,Let's watch the dragon dance.,我們一起來看舞龍吧。,a 發「ㄞ」,ㄉ-ㄖ-ㄞ-ㄍ-ㄣ ㄉ-ㄢ-ㄙ,新年慶典上有精彩的舞龍 (dragon dance)。
+lion dance,,,n.,舞獅,無,The lion dance is cool.,舞獅真的很酷。,i 發「ㄞ」,ㄌ-ㄞ-ㄢ ㄉ-ㄢ-ㄙ,舞獅 (lion dance) 的獅子眼睛一閃一閃的。
+firecracker,,,n.,鞭炮,firecrackers|鞭炮(複數),Listen to the firecracker.,聽聽鞭炮的聲音。,"i 發「ㄞ」, er 發「ㄦ」",ㄈ-ㄞ-ㄦ-ㄎ-ㄖ-ㄞ-ㄎ-ㄦ,放鞭炮 (firecracker) 劈里啪啦好熱鬧。
+pencil,,,n.,鉛筆,pencils|鉛筆(複數),They are pencils.,它們是鉛筆。,e 發「ㄝ」,ㄆ-ㄝ-ㄣ-ㄙ-ㄛ,用鉛筆 (pencil) 在筆記本上寫字。
+flower,,,n.,花朵,flowers|花朵(複數),These are flowers.,這些是花。,"ow 發「ㄠ」, er 發「ㄦ」",ㄈ-ㄌ-ㄠ-ㄦ,美麗的花朵 (flower) 的 ow 發 ㄠ（ow），在地上慢慢盛開。
+bird,,,n.,小鳥,birds|小鳥(複數),Look at the birds.,看那些小鳥。,ir 發「ㄦ」,ㄅ-ㄦ-ㄉ,一隻可愛的小鳥 (bird) 的 ir 發 ㄦ（er），在天空中快樂飛翔。
+tree,,,n.,樹木,trees|樹木(複數),They're trees.,它們是樹木。,ee 發「ㄧ」,ㄊ-ㄖ-ㄧ,大樹 (tree) 的 ee 發 ㄧ（ee），葉子綠綠的。
+nine,,,n.,九,無,Nine flowers.,九朵花。,i_e 發「ㄞ」,ㄋ-ㄞ-ㄣ,九 (nine) 朵漂亮的小花送給奶奶。
+ten,,,n.,十,無,How many robots? Ten.,有幾個機器人？十個。,e 發「ㄝ」,ㄊ-ㄝ-ㄣ,我有十 (ten) 隻手指頭。
+eleven,,,n.,十一,無,I have eleven apples.,我有十一顆蘋果。,e 發「ㄝ」,ㄧ-ㄌ-ㄝ-v-ㄣ,時鐘指著十一 (eleven) 點了。
+twelve,,,n.,十二,無,Jack is twelve years old.,Jack 今年十二歲。,e 發「ㄝ」,ㄊ-ㄨ-ㄝ-ㄌ-v,十二 (twelve) 的 elve 發 ㄝ-ㄌ-v，時鐘有十二個數字。
+pink,,,n./adj.,粉紅色,無,It is pink and purple.,它是粉紅色與紫色的。,i 發「ㄧ」,ㄆ-ㄧ-ㄥ-ㄍ,粉紅色 (pink) 的棒棒糖甜甜的。
+purple,,,n./adj.,紫色,無,Red and blue is purple.,紅加藍等於紫色。,ur 發「ㄦ」,ㄆ-ㄦ-ㄆ-ㄛ,紫色 (purple) 的葡萄很好吃。
+green,,,n./adj.,綠色,無,It is green and orange.,它是綠色與橘色的。,ee 發「ㄧ」,ㄍ-ㄖ-ㄧ-ㄣ,綠色 (green) 的樹葉在微風中擺動。
+orange,,,n./adj.,橘色,無,I like orange.,我喜歡橘色。,o 發「ㄛ」,ㄛ-ㄖ-ㄣ-ㄐ,橘色 (orange) 的橘子酸酸甜甜的。
+eye,,,n.,眼睛,eyes|眼睛(複數),Your eyes are big.,你的眼睛很大。,eye 發「ㄞ」,ㄞ,我們有兩隻明亮的眼睛 (eye) 可以看世界。
+ear,,,n.,耳朵,ears|耳朵(複數),Your ears are big.,你的耳朵很大。,ear 發「ㄧㄦ」,ㄧ-ㄦ,用耳朵 (ear) 聽美妙的音樂。
+nose,,,n.,鼻子,noses|鼻子(複數),I have one nose.,我有一個鼻子。,o_e 發「ㄡ」,ㄋ-ㄡ-ㄗ,用鼻子 (nose) 聞花朵的香味。
+mouth,,,n.,嘴巴,mouths|嘴巴(複數),Your mouth is big.,你的嘴巴很大。,ou 發「ㄠ」,ㄇ-ㄠ-ㄙ,用嘴巴 (mouth) 吃好吃的蛋糕。
+head,,,n.,頭,heads|頭(複數),My head is big.,我的頭很大。,ea 發「ㄝ」,ㄏ-ㄝ-ㄉ,頭 (head) 的 ea 發 ㄝ（eh），輕輕點點頭。
+kite,,,n.,風箏,kites|風箏(複數),How many kites? Ten.,有幾隻風箏？十隻。,i_e 發「ㄞ」,ㄎ-ㄞ-ㄊ,在公園放漂亮的風箏 (kite)。
+pen,,,n.,鋼筆/原子筆,pens|筆(複數),Write it with a pen.,用原子筆寫下來。,e 發「ㄝ」,... (ㄆ-ㄝ-ㄣ),用鋼筆 (pen) 寫一封信。
+pig,,,n.,豬,pigs|豬(複數),There is a pig. It is pink.,有一隻豬，它是粉紅色的。,i 發「ㄧ」,ㄆ-ㄧ-ㄍ,一隻胖嘟嘟的小豬 (pig)。
+cow,,,n.,牛,cows|牛(複數),There is a cow. It is black and white.,有一隻乳牛，它是黑白相間的。,ow 發「ㄠ」,ㄎ-ㄠ,乳牛 (cow) 在草地上吃草。
+duck,,,n.,鴨子,ducks|鴨子(複數),There is a duck.,有一隻鴨子。,u 發「橫ㄚ」,ㄉ-ㄚ-ㄍ,鴨子 (duck) 的 u 發 ㄚ（uh），在池塘裡呱呱叫。
+goat,,,n.,山羊,goats|山羊(複數),We are goats.,我們是山羊。,oa 發「ㄡ」,ㄍ-ㄡ-ㄊ,山羊 (goat) 有長長的鬍鬚。
+horse,,,n.,馬,horses|馬(複數),There are two horses.,有兩匹馬。,or 發「ㄛ」,ㄏ-ㄛ-ㄙ,馬兒 (horse) 在草原上奔跑。
+chicken,,,n.,雞,chickens|雞(複數),There are thirteen chickens.,有十三隻雞。,"ch 發「ㄑ」, i 發「ㄧ」",ㄑ-ㄧ-ㄎ-ㄧ-ㄣ,雞 (chicken) 的 i 發 ㄧ（ih），在院子裡啄米。
+good,,,adj.,好的,無,"Are you a good boy? Yes, I am.",你是個乖男孩嗎？是的，我是。,oo 發「ㄨ」,ㄍ-ㄨ-ㄉ,乖乖聽話就是個好 (good) 孩子。
+bad,,,adj.,壞的,無,He's bad.,他很壞。,a 發「ㄞ」,ㄅ-ㄞ-ㄉ,調皮搗蛋就是壞的 (bad) 行為。
+cute,,,adj.,可愛的,無,"Oh, they're cute.",喔，牠們很可愛。,u_e 發「ㄧㄨ」,ㄎ-ㄧ-ㄨ-ㄊ,這個嬰兒真可愛 (cute)。
+kind,,,adj.,仁慈的/親切的,無,She is kind and pretty.,她又親切又漂亮。,i 發「ㄞ」,... (ㄎ-ㄞ-ㄣ-ㄉ),親切的 (kind) 老師對大家都很好。
+pretty,,,adj.,漂亮的,無,She's pretty.,她很漂亮。,e 發「ㄧ」,ㄆ-ㄖ-ㄧ-ㄉ-ㄧ,漂亮的 (pretty) 的 e 發 ㄧ（ih），穿著美麗的洋裝。
+smart,,,adj.,聰明的,無,He's smart and kind.,他既聰明又仁慈。,ar 發「ㄚ」,ㄙ-ㄇ-ㄚ-ㄊ,聰明的 (smart) 的 ar 發 ㄚ（ah），Allen 功課一學就會。
+egg,,,n.,蛋,eggs|蛋(複數),Let's roll the eggs!,我們一起來滾蛋吧！,e 發「ㄝ」,ㄝ-ㄍ,復活節要尋找彩蛋 (egg)。
+bunny,,,n.,復活節小兔子,bunnies|兔子(複數),I see a cute bunny.,我看到一隻可愛的小兔子。,u 發「ㄚ」,ㄅ-ㄚ-ㄋ-ㄧ,小兔子 (bunny) 蹦蹦跳跳送彩蛋。
+basket,,,n.,籃子,baskets|籃子(複數),The eggs are in the basket.,蛋在籃子裡。,a 發「ㄞ」,ㄅ-ㄞ-ㄙ-ㄍ-ㄧ-ㄊ,把蛋放進竹籃子 (basket) 裡。
+church,,,n.,教堂,churches|教堂(複數),We go to church on Easter.,我們在復活節去教堂。,ur 發「ㄦ」,ㄑ-ㄦ-ㄑ,復活節大家一起去教堂 (church)。
+friend,,,n.,朋友,friends|朋友(複數),She's my friend. Her name is Fay.,她是我的朋友。她的名字是 Fay。,ie 發「ㄝ」,ㄈ-ㄖ-ㄝ-ㄣ-ㄉ,朋友 (friend) 的 ie 發 ㄝ（eh），我們和朋友一起去上學。
+grandfather,,,n.,爺爺/外公,grandpa|爺爺(簡稱),This is my grandfather.,這是我的爺爺。,a 發「ㄞ」/「ㄚ」,ㄍ-ㄖ-ㄞ-ㄣ ㄈ-ㄚ-ㄗ-ㄦ,爺爺 (grandpa) 牽著我的手去散步。
+grandmother,,,n.,奶奶/外婆,grandma|奶奶(簡稱),"It's me, Grandma.",是我，奶奶。,a 發「ㄞ」/「ㄚ」,... (ㄍ-ㄖ-ㄞ-ㄣ ㄇ-ㄚ-ㄗ-ㄦ),奶奶 (grandma) 做飯給我吃。
+girl,,,n.,女孩,girls|女孩(複數),She is a pretty girl.,她是一個漂亮的女孩。,ir 發「ㄦ」,ㄍ-ㄦ-ㄌ,那邊有一個漂亮的小女孩 (girl)。
+boy,,,n.,男孩,boys|男孩(複數),Are you a good boy?,你是個乖男孩嗎？,oy 發「ㄛㄧ」,ㄅ-ㄛ-ㄧ,他是個聰明的小男孩 (boy)。
+baby,,,n.,嬰兒,babies|嬰兒(複數),She is a cute baby.,她是一個可愛的嬰兒。,a 發「ㄟ」,ㄅ-ㄟ-ㄅ-ㄧ,嬰兒 (baby) 在嬰兒床裡睡覺。
+thirteen,,,n.,十三,無,There are thirteen chickens.,有十三隻雞。,"ir 發「ㄦ」, ee 發「ㄧ」",ㄙ-ㄦ-ㄊ-ㄧ-ㄣ,十三 (thirteen) 隻小雞在地上找食物。
+fourteen,,,n.,十四,無,I have fourteen marbles.,我有十四顆彈珠。,"ou 發「ㄛ」, ee 發「ㄧ」",... (ㄈ-ㄛ-ㄊ-ㄧ-ㄣ),我有十四 (fourteen) 顆彈珠。
+fifteen,,,n.,十五,無,There are fifteen cakes.,有十五個蛋糕。,ee 發「ㄧ」,ㄈ-ㄧ-ㄈ-ㄊ-ㄧ-ㄣ,十五 (fifteen) 的 teen 發 ㄊ-ㄧ-ㄣ，今天是我十五歲生日。
+sixteen,,,n.,十六,無,I see sixteen birds.,我看到十六隻小鳥。,ee 發「ㄧ」,ㄙ-ㄧ-ㄍ-ㄙ-ㄊ-ㄧ-ㄣ,十六 (sixteen) 顆星星閃閃發光。
+mad,,,adj.,生氣的,無,"Are you mad, mad, mad? No, we're not.",你們生氣、生氣、生氣了嗎？不，我們沒有。,a 發「ㄞ」,ㄇ-ㄞ-ㄉ,生氣 (mad) 的 a 發 ㄞ（ae），媽媽生氣了臉紅紅。
+shy,,,adj.,害羞的,無,"Are you shy? No, I am not.",你害羞嗎？不，我不害羞。,y 發「ㄞ」,ㄕ-ㄞ,害羞 (shy) 的 y 發 ㄞ（ai），Allen 遇到陌生人有點害羞。
+sleepy,,,adj.,想睡的,無,"Yes, we are sleepy.",是的，我們想睡了。,ee 發「ㄧ」,ㄙ-ㄌ-ㄧ-ㄆ-ㄧ,想睡 (sleepy) 的 ee 發 ㄧ（ee），揉揉眼睛打哈欠。
